@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.suraj.ambulanceauth.AddHospital">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <EditText
+            android:id="@+id/HospitalID"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:ems="10"
+            android:hint="@string/id"
+            android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/HospitalName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/HospitalID"
+        android:layout_marginTop="28dp"
+        android:ems="10"
+        android:hint="@string/name"
+        android:inputType="textPersonName" />
+
+    <TextView
+        android:id="@+id/HospitalCategories"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/HospitalName"
+        android:layout_marginLeft="13dp"
+        android:layout_marginStart="13dp"
+        android:layout_marginTop="15dp"
+        android:text="@string/textview"
+        tools:text="Hospital Category" />
+
+        <CheckBox
+            android:id="@+id/Accident"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/HospitalCategories"
+            android:layout_marginTop="15dp"
+            android:text="@string/accident" />
+
+        <CheckBox
+            android:id="@+id/Poisining"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/Accident"
+            android:layout_alignBottom="@+id/Accident"
+            android:layout_centerHorizontal="true"
+            android:text="@string/poisining" />
+
+        <CheckBox
+            android:id="@+id/DrugOverdose"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/Poisining"
+            android:layout_alignBottom="@+id/Poisining"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:text="@string/drug_overdose" />
+
+        <CheckBox
+            android:id="@+id/Cardiac_Arrrest"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/Accident"
+            android:layout_marginTop="23dp"
+            android:text="@string/cardiac_arrest" />
+
+        <CheckBox
+            android:id="@+id/Shock"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/Cardiac_Arrrest"
+            android:layout_alignBottom="@+id/Cardiac_Arrrest"
+            android:layout_alignLeft="@+id/Poisining"
+            android:layout_alignStart="@+id/Poisining"
+            android:text="@string/shock" />
+
+        <CheckBox
+            android:id="@+id/Asthma"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/Shock"
+            android:layout_alignBottom="@+id/Shock"
+            android:layout_alignLeft="@+id/DrugOverdose"
+            android:layout_alignStart="@+id/DrugOverdose"
+            android:text="@string/asthma" />
+
+        <Button
+            android:id="@+id/Submit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/Cardiac_Arrrest"
+            android:layout_marginTop="61dp"
+            android:text="@string/submit" />
+
+    <TextView
+        android:id="@+id/innitloc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/Submit"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="21dp" />
+
+    </RelativeLayout>
+
+</android.support.constraint.ConstraintLayout>

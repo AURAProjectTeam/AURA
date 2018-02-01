@@ -1,0 +1,319 @@
+{
+  "project_info": {
+    "project_number": "1039361475426",
+    "firebase_url": "https://auraambulance.firebaseio.com",
+    "project_id": "auraambulance",
+    "storage_bucket": "auraambulance.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039361475426:android:e31216193f28ad50",
+        "android_client_info": {
+          "package_name": "com.example.suraj.aura_ambulance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039361475426-35p8o5et6a8dkmn1id6k3q018uak4ohb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.suraj.aura_ambulance",
+            "certificate_hash": "a09a630dff2f88630fcd9e3e89890ef3e51d3c1d"
+          }
+        },
+        {
+          "client_id": "1039361475426-atpeqd717bgir16v6ea979o337fi2dok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWFQFMZZaA9MuhBRbflLIkSCmCcBNFxRw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039361475426-atpeqd717bgir16v6ea979o337fi2dok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039361475426:android:eeb0e27ae8c9fcf5",
+        "android_client_info": {
+          "package_name": "com.example.suraj.aura_general"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039361475426-dpcg42i83l7lhpjiaq2f41mo5mv425ts.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.suraj.aura_general",
+            "certificate_hash": "a09a630dff2f88630fcd9e3e89890ef3e51d3c1d"
+          }
+        },
+        {
+          "client_id": "1039361475426-atpeqd717bgir16v6ea979o337fi2dok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWFQFMZZaA9MuhBRbflLIkSCmCcBNFxRw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039361475426-atpeqd717bgir16v6ea979o337fi2dok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039361475426:android:4aeacf8ddade377c",
+        "android_client_info": {
+          "package_name": "com.example.suraj.ambulanceaura"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039361475426-91etovg6ufs0qp3m38bijf6pkh6e5drt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.suraj.ambulanceaura",
+            "certificate_hash": "a09a630dff2f88630fcd9e3e89890ef3e51d3c1d"
+          }
+        },
+        {
+          "client_id": "1039361475426-atpeqd717bgir16v6ea979o337fi2dok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWFQFMZZaA9MuhBRbflLIkSCmCcBNFxRw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039361475426-atpeqd717bgir16v6ea979o337fi2dok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039361475426:android:9d22ef05e8922da3",
+        "android_client_info": {
+          "package_name": "com.example.suraj.generalaura"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039361475426-u2aqqnnabrfvu080pt4bupmnui8nf70g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.suraj.generalaura",
+            "certificate_hash": "a09a630dff2f88630fcd9e3e89890ef3e51d3c1d"
+          }
+        },
+        {
+          "client_id": "1039361475426-atpeqd717bgir16v6ea979o337fi2dok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWFQFMZZaA9MuhBRbflLIkSCmCcBNFxRw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039361475426-atpeqd717bgir16v6ea979o337fi2dok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039361475426:android:d842af33038fad5c",
+        "android_client_info": {
+          "package_name": "info.androidhive.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039361475426-6ib7r6f2pqoulpuv57ai4nsvhulp86b5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "info.androidhive.firebase",
+            "certificate_hash": "a09a630dff2f88630fcd9e3e89890ef3e51d3c1d"
+          }
+        },
+        {
+          "client_id": "1039361475426-atpeqd717bgir16v6ea979o337fi2dok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWFQFMZZaA9MuhBRbflLIkSCmCcBNFxRw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039361475426-atpeqd717bgir16v6ea979o337fi2dok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039361475426:android:e9511edb727c8285",
+        "android_client_info": {
+          "package_name": "com.example.suraj.aura_hospital"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039361475426-egahk9edfrei56lve7g284iak8e28ts2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.suraj.aura_hospital",
+            "certificate_hash": "a09a630dff2f88630fcd9e3e89890ef3e51d3c1d"
+          }
+        },
+        {
+          "client_id": "1039361475426-atpeqd717bgir16v6ea979o337fi2dok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWFQFMZZaA9MuhBRbflLIkSCmCcBNFxRw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039361475426-atpeqd717bgir16v6ea979o337fi2dok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039361475426:android:aa5924024c660bf1",
+        "android_client_info": {
+          "package_name": "com.example.suraj.ambulanceauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039361475426-k8e9quqjvhf0dej6rj8tk6ivvlsk727o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.suraj.ambulanceauth",
+            "certificate_hash": "a09a630dff2f88630fcd9e3e89890ef3e51d3c1d"
+          }
+        },
+        {
+          "client_id": "1039361475426-atpeqd717bgir16v6ea979o337fi2dok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWFQFMZZaA9MuhBRbflLIkSCmCcBNFxRw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039361475426-atpeqd717bgir16v6ea979o337fi2dok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

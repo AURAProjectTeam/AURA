@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Hospital App</string>
+    <string name="add_hospital">Add Hospital</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="id">ID</string>
+    <string name="name">Name</string>
+    <string name="textview">TextView</string>
+    <string name="set_initial_location">Set Initial Location</string>
+    <string name="submit">Submit</string>
+    <string name="accident">Accident</string>
+    <string name="poisining">Poisining</string>
+    <string name="drug_overdose">Drug Overdose</string>
+    <string name="cardiac_arrest">Cardiac Arrest</string>
+    <string name="shock">Shock</string>
+    <string name="asthma">Asthma</string>
+</resources>
